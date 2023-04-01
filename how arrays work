@@ -1,0 +1,6 @@
+function myReduceWeight() {
+  var myReduceKg = [100, 70, 70];
+  var myReduceBurgerKingKg = [150, 70, 150];
+  var myItem = return(myReduceKg[0] * myReduceBurgerKingKg[0]);
+  console.log(myItem);
+}
